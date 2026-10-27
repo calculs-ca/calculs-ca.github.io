@@ -1,0 +1,9 @@
+venv/
+.venv/
+
+.idea/workspace.xml
+.idea/misc.xml
+.idea/*
+
+.git/
+
